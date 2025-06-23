@@ -4,6 +4,9 @@
   "description": "Türkçe özel karakterleri doğru çeviren ve URL için mükemmel slug'lar oluşturan npm paketi",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "scripts": {
     "build": "tsc",
     "test": "jest",
@@ -29,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/tr-slugify.git"
+    "url": "https://github.com/ahmetseha/tr-slugify.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/tr-slugify/issues"
+    "url": "https://github.com/ahmetseha/tr-slugify/issues"
   },
-  "homepage": "https://github.com/yourusername/tr-slugify#readme"
+  "homepage": "https://github.com/ahmetseha/tr-slugify#readme"
 } 

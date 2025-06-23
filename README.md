@@ -161,7 +161,7 @@ trSlugify('TürkÇe', { lowercase: false });
 ### Kurulum
 
 ```bash
-git clone https://github.com/yourusername/tr-slugify.git
+git clone https://github.com/ahmetseha/tr-slugify.git
 cd tr-slugify
 npm install
 ```
@@ -177,14 +177,6 @@ npm test
 ```bash
 npm run build
 ```
-
-## Katkıda Bulunma
-
-1. Fork yapın
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Commit yapın (`git commit -m 'Add some amazing feature'`)
-4. Push yapın (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
 
 ## Lisans
 
