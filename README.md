@@ -2,6 +2,15 @@
 
 Türkçe özel karakterleri doğru çeviren ve URL için mükemmel slug'lar oluşturan npm paketi.
 
+[![npm version](https://img.shields.io/npm/v/tr-slugify.svg)](https://www.npmjs.com/package/tr-slugify)
+[![npm downloads](https://img.shields.io/npm/dm/tr-slugify.svg)](https://www.npmjs.com/package/tr-slugify)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## 📦 NPM Paketi
+
+**📥 Kurulum:** `npm install tr-slugify`  
+**🔗 NPM Sayfası:** [https://www.npmjs.com/package/tr-slugify](https://www.npmjs.com/package/tr-slugify)
+
 ## Özellikler
 
 - ✅ Türkçe özel karakterleri doğru çevirme (ç→c, ğ→g, ı→i, İ→I, ö→o, ş→s, ü→u)
@@ -17,6 +26,12 @@ Türkçe özel karakterleri doğru çeviren ve URL için mükemmel slug'lar olu�
 
 ```bash
 npm install tr-slugify
+```
+
+**veya**
+
+```bash
+yarn add tr-slugify
 ```
 
 ## Kullanım
