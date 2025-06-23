@@ -1,0 +1,38 @@
+{
+  "name": "tr-slugify",
+  "version": "1.0.0",
+  "description": "Türkçe özel karakterleri doğru çeviren ve URL için mükemmel slug'lar oluşturan npm paketi",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "turkish",
+    "slugify",
+    "url",
+    "seo",
+    "türkçe",
+    "karakter",
+    "çeviri"
+  ],
+  "author": "Ahmet Seha Acar",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "@types/node": "^20.0.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/tr-slugify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/tr-slugify/issues"
+  },
+  "homepage": "https://github.com/yourusername/tr-slugify#readme"
+} 
