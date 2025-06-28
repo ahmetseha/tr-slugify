@@ -1,0 +1,20 @@
+# Source files (not needed in npm package)
+src/
+*.ts
+
+# Test files
+test.js
+*.test.js
+*.test.ts
+coverage/
+
+# Configuration files
+tsconfig.json
+jest.config.js
+
+# Development files
+.gitignore
+.npmignore
+
+# Build artifacts (keep only dist/)
+*.map 
