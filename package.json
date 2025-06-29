@@ -1,6 +1,6 @@
 {
   "name": "tr-slugify",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Türkçe özel karakterleri doğru çeviren ve URL için mükemmel slug'lar oluşturan npm paketi",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -34,5 +34,5 @@
   "bugs": {
     "url": "https://github.com/ahmetseha/tr-slugify/issues"
   },
-  "homepage": "https://www.npmjs.com/package/tr-slugify"
+  "homepage": "https://tr-slugify-site.vercel.app/"
 } 
