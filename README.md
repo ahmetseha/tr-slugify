@@ -196,12 +196,3 @@ npm run build
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-## Changelog
-
-### v1.0.0
-- İlk sürüm
-- Türkçe karakter desteği
-- Temel slugify fonksiyonları
-- TypeScript desteği
-- Kapsamlı test coverage 
